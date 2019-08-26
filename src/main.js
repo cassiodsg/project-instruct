@@ -4,6 +4,8 @@ import router from './router'
 import store from './store'
 import './registerServiceWorker'
 
+import './services/axios'
+
 Vue.config.productionTip = false
 
 new Vue({
