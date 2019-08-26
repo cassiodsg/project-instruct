@@ -1,13 +1,13 @@
-#Project Instruct - List Cards with filter
+# Project Instruct - List Cards with filter
 
 Projeto apresenta uma listagem de usuários com informações extras. 
 Há um filtro, que retorna os valores do final do domínio do email.
 
-###Getting Started
+### Getting Started
 
 Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Veja a implantação de notas sobre como implantar o projeto em um sistema ativo.
 
-###Prerequisites
+### Prerequisites
 
 O que você precisa para instalá-lo na sua máquina
 
@@ -17,7 +17,7 @@ Vuejs
 
 ```
 
-###Project setup
+### Project setup
 
 Para executar a aplicação no seu ambiente de desenvolvimento, escreva esse comandos em seu Terminal(Mac) ou Prompt de Comando(Windows)
 
@@ -34,14 +34,14 @@ Para visualizar e interagir com essa aplicação, utilize esse comando para inic
 ```
 npm run serve
 ```
-##Authors
+## Authors
 Cássio Augusto da Conceição
 
 
-##License
+## License
 This project is licensed under the MIT License 
 
-#Acknowledgments
+# Acknowledgments
 Etc
 <!-- # project-instruct
 
