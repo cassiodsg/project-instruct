@@ -9,7 +9,7 @@ Essas instruções farão com que você tenha uma cópia do projeto em execuçã
 
 ### Prerequisites
 
-O que você precisa para instalá-lo na sua máquina
+O que você precisa para instalá-lo na sua máquina.
 
 ```
 Nodejs
@@ -17,29 +17,41 @@ Vuejs
 
 ```
 
+### Clone Repository
+
+```
+git clone https://github.com/cassiodsg/project-instruct.git
+
+```
+
 ### Project setup
 
-Para executar a aplicação no seu ambiente de desenvolvimento, escreva esse comandos em seu Terminal(Mac) ou Prompt de Comando(Windows)
+Para executar a aplicação no seu ambiente de desenvolvimento, escreva esse comandos em seu Terminal(Mac) ou Prompt de Comando(Windows), dentro da pasta do projeto, que acabou de clonar.
 
 ```
 npm install
 
+```
+
+Caso ainda não tenha instalado o Vue, se tiver não precisa usar esse comando abaixo.
+
+```
 npm i -g @vue/cli
 
 ```
 ### Compiles and reloads for development and tests
 
-Para visualizar e interagir com essa aplicação, utilize esse comando para iniciar um servidor local. Depois abra o browser da preferência e coloque o endereço http ou ip gerando pelo comando
+Para visualizar e interagir com essa aplicação, utilize esse comando para iniciar um servidor local. Depois abra o browser da preferência e coloque o endereço http ou ip gerando pelo comando.
 
 ```
 npm run serve
 ```
 ## Authors
-Cássio Augusto da Conceição
+Cássio Augusto da Conceição.
 
 
 ## License
-This project is licensed under the MIT License 
+This project is licensed under the MIT License.
 
 # Acknowledgments
 Etc

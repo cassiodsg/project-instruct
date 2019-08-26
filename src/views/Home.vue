@@ -115,7 +115,6 @@
 
 <style lang="scss" scoped>
   @import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Roboto:300,400,500,700&display=swap"); 
-  @import '../sass/variables.scss';
 
   *,
   ::after,

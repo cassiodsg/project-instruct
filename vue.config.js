@@ -6,11 +6,11 @@ module.exports = {
         loaderOptions: {
           
           sass: {
-            data: `@import "~@/sass/variables.sass"`
+            data: `@import "@/sass/variables.scss";`
           },
-        //   scss: {
-        //     data: `@import "~@/variables.scss";`
-        //   },
+          // scss: {
+          //   data: `@import "~@/variables.scss";`
+          // },
           
         }
     }
